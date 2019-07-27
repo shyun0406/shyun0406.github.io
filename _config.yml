@@ -5,6 +5,8 @@ author:             Songhyun IM
 baseurl:            ""
 url:                "https://shyun0406.github.io"
 
+remote_theme:       BlackrockDigital/startbootstrap-clean-blog-jekyll
+
 # Social Profiles
 twitter_username:   
 github_username:    shyun0406
