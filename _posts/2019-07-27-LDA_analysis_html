@@ -1,3 +1,10 @@
+---
+layout: post
+title: "LDA_data analysis"
+subtitle: "LDA 분석기초와 시각화"
+date: 2019-07-27 18:43:13 -0400
+background: '/img/posts/01.jpg'
+---
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
